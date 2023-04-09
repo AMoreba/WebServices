@@ -1,0 +1,11 @@
+C:\Users\Main\source\repos\A1\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Main\source\repos\A1\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Main\source\repos\A1\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Main\source\repos\A1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Main\source\repos\A1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Main\source\repos\A1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Main\source\repos\A1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\A1\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Main\source\repos\A1\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Main\source\repos\A1\WindowsFormsApp\obj\Debug\WindowsFormsApp.form.resources
+C:\Users\Main\source\repos\A1\WindowsFormsApp\obj\Debug\WindowsFormsApp.ConvertTemp.resources
